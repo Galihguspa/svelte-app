@@ -20,6 +20,7 @@
 		<p>Jenis Kelamin : Laki Laki</p>
 		<p>Alamat : Purwakarta</p>
 		<p>Pekerjaan : Karyawan</p>
+		<p>status : Lajang</p>
 		
 		<img src={imageURL} alt="Gambar Svelte" class="logo">
 
