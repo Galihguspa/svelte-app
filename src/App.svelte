@@ -18,6 +18,7 @@
 		<p>Skill : <b>{skill}</b> </p>
 		<p>Rating : <b>{ratingSkill}</b></p>
 		<p>Jenis Kelamin : Laki Laki</p>
+		<p>Alamat : Purwakarta</p>
 		
 		<img src={imageURL} alt="Gambar Svelte" class="logo">
 
